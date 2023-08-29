@@ -1,0 +1,7 @@
+f = open("mi_archivo.txt")
+# texto = f.read()
+#lines = texto.splitlines()
+#lines = list(f.readlines())
+# print (lines[:4])
+print(f.readline())
+f.close()
