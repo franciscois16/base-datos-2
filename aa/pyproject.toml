@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "francisco miranda", email = "fmirchav@umag.cl"},
+]
+dependencies = [
+    "sqlalchemy>=2.0.20",
+    "psycopg>=3.1.10",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+

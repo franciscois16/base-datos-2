@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "francisco miranda", email = "fmirchav@umag.cl"},
+]
+dependencies = [
+    "litestar[standard]>=2.0.1",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
